@@ -1,0 +1,22 @@
+{
+  "name": "flat-navigation-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellyjindal10/flat-navigation-menu-css.git"
+  },
+  "author": "shelly jindal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shellyjindal10/flat-navigation-menu-css/issues"
+  },
+  "homepage": "https://github.com/shellyjindal10/flat-navigation-menu-css#readme",
+  "dependencies": {
+    "foundation-sites": "^6.2.3"
+  }
+}
